@@ -27,10 +27,10 @@ user สำหรับใช้ test
 * 3. Username : mark      password : 123456   status : alumni
 
 เครื่องมือที่ใช้
-*Laragon
+* Laragon
 
 ภาษาที่ใช้
-*HTML
-*CSS
-*PHP
-*JavaScript
+* HTML
+* CSS
+* PHP
+* JavaScript
