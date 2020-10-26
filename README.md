@@ -25,3 +25,12 @@ user สำหรับใช้ test
 * 1. Username : folkdogfk password : 123456   status : admin
 * 2. Username : zelos     password : 123456   status : officer
 * 3. Username : mark      password : 123456   status : alumni
+
+เครื่องมือที่ใช้
+*Laragon
+
+ภาษาที่ใช้
+*HTML
+*CSS
+*PHP
+*JavaScript
