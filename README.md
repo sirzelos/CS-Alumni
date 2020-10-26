@@ -1,4 +1,4 @@
-# CS-Alumni
+# CS-Alumni-200-4
 ## สมาชิกในกลุ่ม
 * นาย กรกช    ไตรวิเชียร  6010450012
 * นาย พฤฒิพงศ์ อ่อนสุด    6010450497
@@ -25,12 +25,3 @@ user สำหรับใช้ test
 * 1. Username : folkdogfk password : 123456   status : admin
 * 2. Username : zelos     password : 123456   status : officer
 * 3. Username : mark      password : 123456   status : alumni
-
-เครื่องมือที่ใช้
-* Laragon
-
-ภาษาที่ใช้
-* HTML
-* CSS
-* PHP
-* JavaScript
